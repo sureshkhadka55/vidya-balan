@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 20px 0;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Georgia', serif;
+  font-size: 2em;
+  color: #4a148c;
+  margin: 20px 0 10px;
+}
+
+h3 {
+  font-family: 'Courier New', monospace;
+  font-size: 1.5em;
+  color: #7b1fa2;
+  margin: 20px 0 10px;
+}
+
+header img {
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 8px;
+}
+
+section {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
